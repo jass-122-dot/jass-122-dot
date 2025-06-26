@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Sam! 👋
 
-<!--
-**jass-122-dot/jass-122-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final Year Computer Science Engineering Student**  
+Currently exploring the exciting worlds of **Full Stack Development** and **AI/ML**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 I’m passionate about building user-friendly web applications and always eager to learn new technologies.
+- 💻 My main strengths are in **Front End Development** (React, HTML, CSS, JavaScript). I also have a basic understanding of **Python**.
+- 🏆 I’ve participated (twice!) in paper presentations at technical symposia and had the amazing experience of co-conducting a symposium with my association.
+- 🤝 I love to meet new people, collaborate on cool projects, and make friends from all over the world.
+
+---
+
+## 🌟 What I’m Up To
+
+- Deepening my skills in full stack web development
+- Exploring Artificial Intelligence and Machine Learning
+- Looking for new opportunities to collaborate and learn
+
+---
+
+## 💬 Let's Connect!
+
+I’m always open to connecting with fellow learners and developers. If you want to collaborate or just say hi, feel free to reach out!
+
+---
+
+> “Collaboration is the key to innovation.”
+
+Thanks for stopping by! 😊
