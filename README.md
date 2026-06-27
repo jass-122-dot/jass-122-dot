@@ -48,9 +48,7 @@ A responsive web application built using HTML, CSS, and JavaScript to list and c
 ## Achievements
 
 - Presented on AI at Vellalar College of Engineering Symposium (2024)
-- 
 - Delivered a Python history seminar at Shivani College of Engineering (2023)
-- 
 - Symposium Coordinator, PGP College of Engineering and Technology   - Coordinated event planning(2025)
 
 ## Certifications
