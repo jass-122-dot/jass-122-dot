@@ -1,6 +1,7 @@
 # Shamitha Jasmine 
 Softtware Devloper
-Bachelor of Engineering in Computer Science and Engineering, Anna University (2022–2026)  
+
+Bachelor of Engineering in Computer Science and Engineering, Anna University (2022–2026) 
 Python Backend Developer with hands-on experience in Flask, SQL, HTML, CSS, and JavaScript through academic and personal projects. Skilled in REST API development, database management, and backend integration. Seeking an entry-level Software Developer role to apply and expand technical skills.
 
 ## Technical Skills
