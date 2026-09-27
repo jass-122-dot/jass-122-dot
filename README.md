@@ -10,10 +10,10 @@ Python Backend Developer with hands-on experience in Flask, SQL, HTML, CSS, and 
 
 - **Programming Languages:** Python, SQL
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Flask, FastAPI, REST APIs, Node.js, Express
-- **Database:** MySQL, SQLite, MongoDB, PostgreSQL
+- **Backend:** Flask, FastAPI, REST APIs, django
+- **Database:** MySQL, SQLite
 - **AI/ML:** RAG, LangGraph, Groq LLMs (LLaMA, Gemma), ChromaDB
-- **Tools:** Git, GitHub, VS Code, Postman
+- **Tools:** Git, GitHub, VS Code, 
 
 ## 🚀 Projects
 
