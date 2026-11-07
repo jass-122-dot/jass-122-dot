@@ -12,16 +12,17 @@ Python Backend Developer with hands-on experience in Flask, SQL, HTML, CSS, and 
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Flask, REST APIs,
 - **Database:** MySQL, SQLite
-- **AI/ML:** RAG, LangGraph, Groq LLMs (LLaMA, Gemma), ChromaDB
+- **AI/ML:** RAG, LangGraph, Groq LLMs (LLaMA, Gemma),Gemini API, ChromaDB
 - **Tools:** Git, GitHub, VS Code, 
 
 ## 🚀 Projects
 
-### PharmaGuard AI
-- AI-powered Customer Complaint Management System built for the pharmaceutical manufacturing (API and FDF) industry.
-- Stack: React + Redux (frontend), Python FastAPI (backend), LangGraph AI agent workflows, Groq LLMs, MySQL/PostgreSQL.
-- Automates the complaint intake-to-risk-assessment pipeline: document input → backend processing → LangGraph AI workflow → complaint form population → AI Copilot risk classification.
-- [Repo](https://github.com/jass-122-dot/PharmaGuard_AI/tree/main/pharma-qms-complaints)
+### AI Support Ticket Triage Agent
+- Designed and developed an AI-powered customer support backend application using Python and Flask toautomate ticket classification and workflow management.
+- Built RESTful endpoints and an interactive dashboard with dynamic filtering, workflow management, andautomated analytics to improve operational reporting.
+- Integrated the application components, managed code with Git/GitHub, and deployed the solution using
+Gunicorn.
+
 
 ### AI PDF Chatbot
 - Developed an AI-powered PDF Chatbot using Python, Flask, SQLite, HTML, CSS, and JavaScript.
