@@ -1,6 +1,6 @@
 # Hi, I'm Samitha Jasmine 👋
 
-**Software Developer**
+**python Developer**
 
 Bachelor of Engineering in Computer Science and Engineering, Anna University (2022–2026)
 
@@ -10,7 +10,7 @@ Python Backend Developer with hands-on experience in Flask, SQL, HTML, CSS, and 
 
 - **Programming Languages:** Python, SQL
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Flask, FastAPI, REST APIs, django
+- **Backend:** Flask, REST APIs,
 - **Database:** MySQL, SQLite
 - **AI/ML:** RAG, LangGraph, Groq LLMs (LLaMA, Gemma), ChromaDB
 - **Tools:** Git, GitHub, VS Code, 
@@ -52,7 +52,7 @@ Python Backend Developer with hands-on experience in Flask, SQL, HTML, CSS, and 
 ## 💼 Internship
 
 **Full Stack Development Internship — SaiKet Systems**
-- 6-task program covering: a static portfolio website, a responsive landing page with vanilla JS, a React to-do app, a Node.js + Express REST API, MySQL/PostgreSQL integration, and a full-stack User Management System with CRUD and optional login auth.
+- 6-task program covering: A responsive web application built using HTML, CSS, and JavaScript to list and categorize books. a responsive landing page with  JS, a React to-do app,  REST API, MySQL/PostgreSQL integration, SQLALchemy and a full-stack User Management System with CRUD and optional login auth.
 
 ## 🏆 Achievements
 
@@ -64,6 +64,8 @@ Python Backend Developer with hands-on experience in Flask, SQL, HTML, CSS, and 
 
 - HackerRank: Python (Basic), SQL (Basic), SQL (Intermediate)
 - GUVI: AI Chatbot Development
+- UDEMY: the ultimate flask app
+- SIMPLILEARN: Basics of Web Scraping with Beautiful Soup for Beginners
 
 ## 📫 Contact
 
